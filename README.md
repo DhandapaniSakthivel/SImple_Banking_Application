@@ -1,1 +1,1 @@
-# SImple_Banking_Application
+# Simple_Banking_Application
